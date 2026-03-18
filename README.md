@@ -69,12 +69,16 @@ The entire pipeline is designed so you can perform **sales and outlet analysis w
 
 ```bash
 git clone https://github.com/gamana29/Blinkit_Data_Analysis.git
+cd  Blinkit_Data_Analysis
 
-
-2️⃣ Install Python Dependencies
+````
+### **2️⃣ Install Python Dependencies
+```
 pip install -r requirements.txt
+````
 
-📁 Project Structure
+### 📁 Project Structure
+```
 Blinkit_Data_Analysis/
 │
 ├── data/
@@ -102,8 +106,9 @@ Blinkit_Data_Analysis/
 │
 ├── requirements.txt
 └── README.md
+```
 
-📊 Analysis Highlights
+### 📊 Analysis Highlights
 
 Top-selling products: Identified categories generating the highest revenue
 
@@ -115,7 +120,7 @@ Customer ratings: Most products rated between 4–5 stars
 
 Seasonal trends: Certain items show strong demand during holidays
 
-📈 Visualizations
+### 📈 Visualizations
 
 Sales Trends Over Time: Line charts for daily, weekly, and monthly sales
 
@@ -125,7 +130,7 @@ Outlet Performance Heatmap: Identify high-performing and underperforming outlets
 
 Customer Ratings Distribution: Histograms and pie charts
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! You can:
 
@@ -135,7 +140,7 @@ Suggest new analysis features 💡
 
 Submit pull requests 📬
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License. See LICENSE for details.
 
@@ -143,10 +148,5 @@ Made with 💻 by Gamana
 Explore more at https://github.com/gamana29
 
 
----
-
-If you want, I can **also add badges for GitHub stars, issues, last commit, Python version, and Power BI** to make it fully professional and “live,” like your wireless modulation README.  
-
-Do you want me to add those too?
-cd Blinkit_Data_Analysis
+--- 
 
