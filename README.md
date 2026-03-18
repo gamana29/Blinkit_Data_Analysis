@@ -72,7 +72,7 @@ git clone https://github.com/gamana29/Blinkit_Data_Analysis.git
 cd  Blinkit_Data_Analysis
 
 ````
-### **2️⃣ Install Python Dependencies
+### **2️⃣ Install Python Dependencies**
 ```
 pip install -r requirements.txt
 ````
