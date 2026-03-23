@@ -76,7 +76,7 @@ cd  Blinkit_Data_Analysis
 ```
 pip install -r requirements.txt
 ````
-
+---
 ### 📁 Project Structure
 ```
 Blinkit_Data_Analysis/
@@ -107,7 +107,7 @@ Blinkit_Data_Analysis/
 ├── requirements.txt
 └── README.md
 ```
-
+---
 ### 📊 Analysis Highlights
 
 Top-selling products: Identified categories generating the highest revenue
@@ -119,6 +119,7 @@ Outlet performance: Some outlets consistently outperform others
 Customer ratings: Most products rated between 4–5 stars
 
 Seasonal trends: Certain items show strong demand during holidays
+---
 
 ### 📈 Visualizations
 
@@ -129,6 +130,7 @@ Top Products & Categories: Bar charts to visualize bestsellers
 Outlet Performance Heatmap: Identify high-performing and underperforming outlets
 
 Customer Ratings Distribution: Histograms and pie charts
+---
 
 ### 🤝 Contributing
 
@@ -139,6 +141,7 @@ Report issues 🐛
 Suggest new analysis features 💡
 
 Submit pull requests 📬
+---
 
 ### 📜 License
 
